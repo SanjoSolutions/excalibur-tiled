@@ -1,5 +1,5 @@
 {
-  "name": "@excaliburjs/plugin-tiled",
+  "name": "@sanjo/excaliburjs-plugin-tiled",
   "version": "0.30.2",
   "description": "excalibur-tiled provides Tiled map editor integration with Excalibur.js",
   "main": "build/umd/excalibur-tiled.min.js",
